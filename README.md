@@ -4,7 +4,7 @@ game-tracker
 ![Issues](https://img.shields.io/github/issues/chosafine/game-tracker)
 ![Stars](https://img.shields.io/github/stars/chosafine/game-tracker)
 ![Forks](https://img.shields.io/github/forks/chosafine/game-tracker)
-![License](https://img.shields.io/github/license/chosafine/game-tracker
+![License](https://img.shields.io/github/license/chosafine/game-tracker)
 
 A PWA for tracking your progress through different video games.
 
