@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Header from "./Components/Header/header";
+import CardController from "./Components/Cards/CardController";
 import Footer from "./Components/Footer/footer";
 import "./App.css";
 
@@ -12,6 +13,7 @@ class App extends React.Component {
           <Route exact path="/">
             <div className="container">
               <Header />
+              <CardController />
               <Footer />
             </div>
           </Route>

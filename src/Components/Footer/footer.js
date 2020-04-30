@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
     return (
       <div>
-        <h1>Footer!</h1>
+        <h6>made by chosafine</h6>
       </div>
     );
 }
